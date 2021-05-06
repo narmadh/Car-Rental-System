@@ -1,5 +1,5 @@
 # Car-Rental-System 
-A full fledged car rental system implemented in Python using object oriented programming.
+A full fledged car rental system(cli application) implemented in Python using object oriented programming.
 
 ## Customers can 
 
